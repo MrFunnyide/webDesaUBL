@@ -1,5 +1,6 @@
 <template>
-   <div class="d-flex text-center text-white p-5 align-items-center mobile-res" style="background-color: #557A46;">
+   <div id="sejarah" class="d-flex text-center text-white p-5 align-items-center mobile-res"
+      style="background-color: #557A46;">
       <div>
          <h3>Sejarah Umbul Limus</h3>
          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis, ad. Inventore fugit dignissimos voluptatibus

@@ -10,12 +10,12 @@
          </button>
          <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
             <div class="navbar-nav" style="font-weight: 400;">
-               <a class="nav-link active" aria-current="page" href="#">Profil</a>
-               <a class="nav-link active" aria-current="page" href="#">Sejarah</a>
-               <a class="nav-link active" aria-current="page" href="#">Adat Istiadat</a>
-               <a class="nav-link active" aria-current="page" href="#">Rumah Adat</a>
-               <a class="nav-link active" aria-current="page" href="#">Destinasi</a>
-               <a class="nav-link active" aria-current="page" href="#">Kekayaan Alam</a>
+               <a class="nav-link active" aria-current="page" href="#profil">Profil</a>
+               <a class="nav-link active" aria-current="page" href="#sejarah">Sejarah</a>
+               <a class="nav-link active" aria-current="page" href="#adatistiadat">Adat Istiadat</a>
+               <a class="nav-link active" aria-current="page" href="#rumahAdat">Rumah Adat</a>
+               <a class="nav-link active" aria-current="page" href="#destinasi">Destinasi</a>
+               <a class="nav-link active" aria-current="page" href="#kekayaanAlam">Kekayaan Alam</a>
             </div>
          </div>
       </div>

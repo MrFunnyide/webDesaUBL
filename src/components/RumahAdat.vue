@@ -1,5 +1,5 @@
 <template>
-   <div class="d-flex text-center p-5 align-items-center mobile-res" style="background-color: #F2EE9D;">
+   <div id="rumahAdat" class="d-flex text-center p-5 align-items-center mobile-res" style="background-color: #F2EE9D;">
       <div>
          <img class="img-rumahAdat" src="../assets/image/photo.jpg" alt="rumahAdat">
       </div>

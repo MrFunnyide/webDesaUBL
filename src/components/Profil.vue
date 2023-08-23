@@ -1,5 +1,5 @@
 <template>
-   <div class=" d-flex profil">
+   <div id="profil" class=" d-flex profil">
       <div>
          <h3 class="text-center my-3">Profil Umbul Limus</h3>
          <p class="text-break text-center mx-5">Desa Umbul Limus merupakan sebuah perpaduan harmonis antara alam yang indah
@@ -12,7 +12,9 @@
       </div>
    </div>
 </template>
-<style>.profil {
+<style>
+.profil {
    padding-top: 16%;
    padding-bottom: 8%;
-}</style>
+}
+</style>

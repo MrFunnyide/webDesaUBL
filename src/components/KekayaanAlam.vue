@@ -1,5 +1,5 @@
 <template>
-   <div class="p-5 border border-black">
+   <div id="kekayaanAlam" class="p-5 border border-black">
       <h3 class="text-center">Kekayaan Alam</h3>
       <p class="text-center">Kekayaan Alam Desa Umbul Limus</p>
 
