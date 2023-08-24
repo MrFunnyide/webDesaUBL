@@ -16,4 +16,7 @@ body {
    .mobile-res {
       flex-direction: column;
    }
+   .gallery {
+      width: 100%;
+   }
 }
