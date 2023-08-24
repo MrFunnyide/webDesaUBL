@@ -16,7 +16,7 @@ body {
    .mobile-res {
       flex-direction: column;
    }
-   .gallery {
-      width: 100%;
+   .card {
+    margin: 18px;
    }
 }

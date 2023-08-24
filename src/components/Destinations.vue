@@ -14,7 +14,7 @@
                <img src="../assets/image/curup3.jpg" class="w-100 shadow-1-strong rounded mb-4 destinasion"
                   alt="Mountains in the Clouds" />
             </div>
-            <div class="col-lg-6 mb-4 mb-lg-0">
+            <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
                <img src="../assets/image/curup5.jpg" class="w-100 shadow-1-strong rounded mb-4 destinasion"
                   alt="Boat on Calm Water" />
                <img src="../assets/image/curup4.jpg" class="w-100 shadow-1-strong rounded mb-4 destinasion"
