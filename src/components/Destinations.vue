@@ -7,12 +7,9 @@
       </div>
       <!-- Gallery -->
       <div class="d-flex justify-content-center ">
-         <div class="row w-75 mt-5">
+         <div class="row w-100 mt-5">
             <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
                <img src="../assets/image/curup1.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
-
-               <img src="../assets/image/curup2.jpg" class="w-100 shadow-1-strong rounded mb-4"
-                  alt="Wintry Mountain Landscape" />
             </div>
 
             <div class="col-lg-6 mb-4 mb-lg-0">
