@@ -9,16 +9,29 @@
       <div class="d-flex justify-content-center ">
          <div class="row w-75 mt-5">
             <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
-               <img src="../assets/image/curup1.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
-               <img src="../assets/image/curup3.jpg" class="w-100 shadow-1-strong rounded mb-4"
+               <img src="../assets/image/curup1.jpg" class="w-100 shadow-1-strong rounded mb-4 destinasion"
+                  alt="Boat on Calm Water" />
+               <img src="../assets/image/curup3.jpg" class="w-100 shadow-1-strong rounded mb-4 destinasion"
                   alt="Mountains in the Clouds" />
             </div>
             <div class="col-lg-6 mb-4 mb-lg-0">
-               <img src="../assets/image/curup5.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
-               <img src="../assets/image/curup4.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
+               <img src="../assets/image/curup5.jpg" class="w-100 shadow-1-strong rounded mb-4 destinasion"
+                  alt="Boat on Calm Water" />
+               <img src="../assets/image/curup4.jpg" class="w-100 shadow-1-strong rounded mb-4 destinasion"
+                  alt="Boat on Calm Water" />
             </div>
          </div>
       </div>
       <!-- Gallery -->
    </div>
 </template>
+<style>
+.destinasion {
+   transition: ease-in-out 0.5s;
+}
+
+.destinasion:hover {
+   box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   ;
+}
+</style>
