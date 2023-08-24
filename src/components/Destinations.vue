@@ -1,11 +1,9 @@
 <template>
    <div id="destinasi" class="p-5 ">
-      <div class="d-flex align-items-center mobile-res">
+      <div class="container d-flex align-items-center mobile-res">
          <h1>Destinasi Wisata Air Terjun Curup</h1>
-         <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, laboriosam.
-            Assumenda fugiat
-            aliquid expedita
-            harum deserunt nisi dolores culpa necessitatibus</p>
+         <p class="p-2">Air terjun yang terletak di desa Umbul Limus, tersembunyi didalam kerimbunan hutan desa Umbul
+            Limus. Air terjun yang memukau dengan keindahan yang tiada tara.</p>
       </div>
       <!-- Gallery -->
       <div class="d-flex justify-content-center ">
