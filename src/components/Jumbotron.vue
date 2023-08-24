@@ -8,8 +8,8 @@
             <p class="text-break">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, similique deleniti
                laboriosam</p>
             <div>
-               <button class="p-2 me-3 border">Go Explore</button>
-               <button class="p-2 ms-3 border">Watch video</button>
+               <a href="#profil" class="btn p-2 me-3 border">Go Explore</a>
+               <a class="btn ms-3 border">Watch video</a>
             </div>
          </div>
       </div>
@@ -27,7 +27,7 @@
    left: 25%;
 }
 
-button {
+.btn {
    font-size: 12px;
    color: #eeee;
    background-color: #557A46;
@@ -35,7 +35,7 @@ button {
    border-color: #eeee;
 }
 
-button:hover {
+.btn:hover {
    background-color: #7A9D54;
    color: white;
 }
