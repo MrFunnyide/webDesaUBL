@@ -1,5 +1,6 @@
 <template>
-   <div class="text-center">
-      <p class="mt-3">This Is Footer, dont forget to follow instagram</p>
-   </div>
+   <footer class="text-center pb-3" style="background-color: #131f38;">
+      <a href="https://www.instagram.com/kkn.desaumbullimus/" class="text-white" style="font-size: small;">Kuliah Kerja
+         Nyata Melayu Serumpun Desa Umbul Limus</a>
+   </footer>
 </template>

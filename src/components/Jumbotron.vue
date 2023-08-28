@@ -13,7 +13,7 @@
             </p>
             <div>
                <a href="#profil" class="btn p-2 me-3 border">Go Explore</a>
-               <a class="btn ms-3 border">Watch video</a>
+               <a href="https://youtu.be/jwNoVQGBqg4" class="btn ms-3 border">Watch video</a>
             </div>
          </div>
       </div>
