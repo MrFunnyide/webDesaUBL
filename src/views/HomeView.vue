@@ -7,6 +7,7 @@ import Profil from '../components/Profil.vue';
 import AdatIstiadat from '../components/adatIstiadat.vue';
 import RumahAdat from '../components/RumahAdat.vue';
 import Footer from '../components/Footer.vue';
+
 </script>
 
 <template>

@@ -1,17 +1,16 @@
 <template>
-   <div id="rumahAdat" class="d-flex text-center p-5 text-white align-items-center mobile-res"
-      style="background-color: #131f38;">
+   <div id="rumahAdat" class="d-flex text-center p-5 align-items-center mobile-res" data-aos="fade-right"
+      data-aos-duration="2000" data-aos-easing="ease-in-sine">
       <div>
-         <img class="img-rumahAdat" src="../assets/image/photo.jpg" alt="rumahAdat">
+         <img class="img-rumahAdat" src="../assets/image/rumahAdat.jpg" alt="rumahAdat">
       </div>
       <div>
          <h3>Rumah Adat</h3>
          <br>
-         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis, ad. Inventore fugit dignissimos voluptatibus
-            eum deserunt corporis perferendis consequatur ut architecto voluptatem sunt odio temporibus, et adipisci amet
-            dolor animi Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit inventore iste illo dolorem id culpa
-            ducimus tenetur deleniti earum odio aperiam debitis, esse harum cupiditate suscipit dignissimos minima totam
-            velit.rem</p>
+         <p>Hampir semua masyarakat desa Umbul Limus masih mempertahankan tradisi menggunakan rumah panggung sebagai bentuk
+            hunian utama. Meskipun zaman telah berubah, rumah panggung tetap dianggap penting karena mampu menjaga hubungan
+            dengan warisan budaya leluhur serta memberikan perlindungan dari banjir dan lingkungan sekitar yang
+            berubah-ubah.</p>
       </div>
    </div>
 </template>

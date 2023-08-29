@@ -1,7 +1,7 @@
 <template>
    <div class="content text-white" style="background-color: #131f38;">
       <div class="container d-flex mobile-res">
-         <div class="">
+         <div>
             <h1 class="text-break fw-bold">Ready to Explore the Beauty of Wonderful
                Umbul Limus
             </h1>

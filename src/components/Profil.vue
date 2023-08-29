@@ -1,5 +1,5 @@
 <template>
-   <div id="profil" class="container d-flex profil">
+   <div id="profil" class="container d-flex profil" data-aos="fade-right">
       <div>
          <h3 class="text-center my-4">Profil Umbul Limus</h3>
          <p class="text-break text-center mx-5">Desa Umbul Limus merupakan sebuah perpaduan harmonis antara alam yang indah

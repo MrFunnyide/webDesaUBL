@@ -3,7 +3,7 @@
       <h3 class="text-center text-white">Kekayaan Alam</h3>
       <p class="text-center text-white">Kekayaan Alam Desa Umbul Limus</p>
       <br>
-      <div class="d-flex justify-content-around m-3 text-center mobile-res">
+      <div class="d-flex justify-content-around m-3 text-center mobile-res" data-aos="fade-up" data-aos-duration="3000">
          <div class="card border" style="width: 16rem; background-color: #131f38;">
             <img src="../assets/image/kekayaanAlam/coklat.jpg" class="card-img-top" alt="coklat">
             <div class="card-body text-white ">
@@ -11,7 +11,8 @@
                <p class="card-desc">Tanaman yang menghasilkan biji kakao yang digunakan untuk membuat coklat.</p>
             </div>
          </div>
-         <div class="card border" style="width: 16rem; background-color: #131f38;">
+         <div class="card border" style="width: 16rem; background-color: #131f38;" data-aos="fade-up"
+            data-aos-duration="3000">
             <img src="../assets/image/kekayaanAlam/pisang.jpg" class="card-img-top" alt="pisang">
             <div class="card-body text-white">
                <h5 class="card-title">Pisang</h5>
@@ -19,7 +20,8 @@
                   mempunyai banyak manfaat.</p>
             </div>
          </div>
-         <div class="card border" style="width: 16rem; background-color: #131f38;">
+         <div class="card border" style="width: 16rem; background-color: #131f38;" data-aos="fade-up"
+            data-aos-duration="3000">
             <img src="../assets/image/kekayaanAlam/kelapa.jpg" class="card-img-top" alt="kelapa">
             <div class="card-body text-white ">
                <h5 class="card-title">Kelapa</h5>
@@ -27,7 +29,8 @@
                   limus. dan kelapa ini biasanya di manfaatkan untuk membuat minyak kelapa.</p>
             </div>
          </div>
-         <div class="card border " style="width: 16rem; background-color: #131f38;">
+         <div class="card border " style="width: 16rem; background-color: #131f38;" data-aos="fade-up"
+            data-aos-duration="3000">
             <img src="../assets/image/kekayaanAlam/padi.jpg" class="card-img-top" alt="padi">
             <div class="card-body text-white ">
                <h5 class="card-title">Padi</h5>
