@@ -26,7 +26,7 @@
       </div>
       <div id="adatIstiadat" class="d-flex text-center p-5 text-white align-items-center mobile-res">
          <div data-aos="fade-right" data-aos-duration="1000">
-            <img class="img-rumahAdat" src="../assets/image/adatIstiadat/kekhedai.jpg" alt="Kekhedai">
+            <img class="img-rumahAdat" src="../assets/image/adatIstiadat/kebung.jpg" alt="Kebung">
          </div>
          <div data-aos="fade-left" data-aos-duration="1000">
             <h3>Kebung</h3>
