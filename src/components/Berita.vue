@@ -1,9 +1,9 @@
 <template>
-   <div id="kekayaanAlam" class="p-5" style="background-color: #131f38;">
+   <div id="SeputarUmbulLimus" class="p-2" style="background-color: #131f38;">
       <h3 class="text-center text-white">Seputar Umbul Limus</h3>
       <p class="text-center text-white">Info Seputar Umbul Limus</p>
-      <br>
-      <div class="d-flex justify-content-around m-3 text-center mobile-res" data-aos="fade-up" data-aos-duration="3000">
+      <div class="container d-flex justify-content-around m-3 text-center mobile-res" data-aos="fade-up"
+         data-aos-duration="3000">
          <div class="card border" style="width: 18rem; background-color: #131f38;">
             <img src="https://radarnusantara.co/wp-content/uploads/2023/09/20230831_082121_copy_800x450-1.jpg"
                class="card-img-top" alt="berita g-1 ">
