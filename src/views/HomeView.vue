@@ -7,7 +7,7 @@ import Profil from '../components/Profil.vue';
 import AdatIstiadat from '../components/adatIstiadat.vue';
 import RumahAdat from '../components/RumahAdat.vue';
 import Footer from '../components/Footer.vue';
-
+import Berita from '../components/Berita.vue';
 </script>
 
 <template>
@@ -20,5 +20,6 @@ import Footer from '../components/Footer.vue';
   <RumahAdat />
   <Destiantions />
   <KekayaanAlam />
+  <Berita />
   <Footer />
 </template>
