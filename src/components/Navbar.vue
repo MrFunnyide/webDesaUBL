@@ -10,7 +10,6 @@
             <div class="navbar-nav">
                <a class="nav-link active" aria-current="page" href="/">Home</a>
                <a class="nav-link" aria-current="page" href="#profil">Profil</a>
-               <a class="nav-link" aria-current="page" href="#sejarah">Sejarah</a>
                <a class="nav-link" aria-current="page" href="#adatistiadat">Adat Istiadat</a>
                <a class="nav-link" aria-current="page" href="#rumahAdat">Rumah Adat</a>
                <a class="nav-link" aria-current="page" href="#destinasi">Destinasi</a>
